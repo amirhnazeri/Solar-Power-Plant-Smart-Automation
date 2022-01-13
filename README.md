@@ -6,16 +6,16 @@ Renwable energy is the main answer to the world's growing need for energy in the
 In the solar power plant intelligent monitoring system, the data are received from the power plant component sensors, which is sent through data exchange modules, for accurate, safe and secure monitoring and using a graphical interface and a combination of state-of-art artificial intelligence methods to detect possible faults are provided to the user.
 
 <p align="center">
-<img src="https://github.com/amirhnazeri/Solar-Power-Plant-Smart-Automation/blob/main/Images/sc.jpg" width="600" height="300">
+<img src="https://github.com/amirhnazeri/Solar-Power-Plant-Smart-Automation/blob/main/Images/sc.jpg" width="500" height="300">
 </p>
 
 
 <p align="center">
-<img src="https://github.com/amirhnazeri/Solar-Power-Plant-Smart-Automation/blob/main/Images/Software%20screenshots/mainwindow.JPG" width="600" height="300">
+<img src="https://github.com/amirhnazeri/Solar-Power-Plant-Smart-Automation/blob/main/Images/Software%20screenshots/mainwindow.JPG" width="500" height="300">
 </p>
 
 <p align="center">
-<img src="https://github.com/amirhnazeri/Solar-Power-Plant-Smart-Automation/blob/main/Images/Software%20screenshots/graph.JPG" width="600" height="300">
+<img src="https://github.com/amirhnazeri/Solar-Power-Plant-Smart-Automation/blob/main/Images/Software%20screenshots/graph.JPG" width="500" height="300">
 </p>
 
 
